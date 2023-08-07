@@ -1,0 +1,11 @@
+C:\xamppp\htdocs\ProjectOTA-Rust\target\debug\deps\libc-7693e37cbd33a4d6.rmeta: C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\lib.rs C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\macros.rs C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\fixed_width_ints.rs C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\windows\mod.rs C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\windows\msvc\mod.rs
+
+C:\xamppp\htdocs\ProjectOTA-Rust\target\debug\deps\liblibc-7693e37cbd33a4d6.rlib: C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\lib.rs C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\macros.rs C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\fixed_width_ints.rs C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\windows\mod.rs C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\windows\msvc\mod.rs
+
+C:\xamppp\htdocs\ProjectOTA-Rust\target\debug\deps\libc-7693e37cbd33a4d6.d: C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\lib.rs C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\macros.rs C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\fixed_width_ints.rs C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\windows\mod.rs C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\windows\msvc\mod.rs
+
+C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\lib.rs:
+C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\macros.rs:
+C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\fixed_width_ints.rs:
+C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\windows\mod.rs:
+C:\Users\creative117\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.147\src\windows\msvc\mod.rs:
